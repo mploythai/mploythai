@@ -5,7 +5,7 @@
 ##### ABOUT
 
 - 🎓 4th year CS at [**CSUF**](https://fullerton.edu)
-- 💻 Previously at [**ACM at CSUF**](https://acmcsuf.com), [**TuffyHacks**](https://tuffyhacks.com)
+- 💻 Previously [**ACM at CSUF**](https://acmcsuf.com), [**TuffyHacks**](https://tuffyhacks.com)
 - ⚡️ Currently working on projects I'm truly passionate about :)
 - 🎬 I make videos for fun on [**YouTube**](https://mikeploythai.com/youtube) and [**Instagram**](https://instagram.com/mikeploythai)
 
