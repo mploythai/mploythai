@@ -7,7 +7,7 @@
 - 🎓 4th year CS at [**CSUF**](https://fullerton.edu)
 - 💻 Previously [**ACM at CSUF**](https://acmcsuf.com), [**TuffyHacks**](https://tuffyhacks.com)
 - ⚡️ Currently working on my fake social media/trading card game concoction, [**Hot Discord Cards**](https://github.com/mploythai/hot-discord-cards)
-- 🎬 I make videos for fun on [**YouTube**](https://mikeploythai.com/youtube) and [**Instagram**](https://instagram.com/mikeploythai)
+- 🎬 I make vlogs for fun on [**YouTube**](https://mikeploythai.com/youtube) and [**Instagram**](https://instagram.com/mikeploythai)
 
 ##### CURRENT STACK
 
